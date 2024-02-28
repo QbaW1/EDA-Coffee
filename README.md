@@ -4,7 +4,8 @@ Analiza została przeprowadzona za pomocą języka R.
 
 # Cel projektu  
 Celem projektu była eksploracja znajdujących się w nim danych - recenzji kaw, wystawionych przez członków instytutu.  
-Próba znalezienia ciekawych zależności oraz zwizualizowania wyników przy pomocy takich pakietów jak *ggplot2* czy *dplyr*.  
+Próba znalezienia ciekawych zależności np. "Z jakiego kraju przeciętnie pochodzą najlepsze kawy?" lub "Jakie były najpopularniejsze odmiany kawy?".      
+Zwizualizowanie wyników przy pomocy takich pakietów jak *ggplot2* czy *dplyr*.  
 
 # Plik
 Raport wygenerowany za pomocą *R Markdown* znajduje się poniżej:
