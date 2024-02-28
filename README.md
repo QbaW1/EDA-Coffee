@@ -1,11 +1,11 @@
 # EDA-Coffee  
-Projekt dotyczył analizy danych, pochodzących z *The Coffee Quality Institute*.
+Projekt dotyczył analizy danych, pochodzących z *The Coffee Quality Institute* (CQI).  
 Analiza została przeprowadzona za pomocą języka R.  
 
 # Cel projektu  
-Celem projektu była eksploracja znajdujących się w nim danych - recenzji kaw, wystawionych przez członków instytutu.  
-Próba znalezienia ciekawych zależności np. "Z jakiego kraju przeciętnie pochodzą najlepsze kawy?" lub "Jakie były najpopularniejsze odmiany kawy?".      
-Zwizualizowanie wyników przy pomocy takich pakietów jak *ggplot2* czy *dplyr*.  
+Celem analizy było zgłębienie danych, obejmujących recenzje kaw wystawione przez członków instytutu CQI.  
+Próba znalezienia ciekawych zależności i odpowiedzenia na takie pytania jak: "Z jakiego kraju przeciętnie pochodzą najlepsze kawy?" czy "Jakie odmiany kawy cieszyły się największą popularnością?".  
+Ostatecznie zwizualizowanie uzyskanych wyników, korzystając z pakietów takich jak *ggplot2* czy *dplyr*.
 
 # Plik
 Raport wygenerowany za pomocą *R Markdown* znajduje się poniżej:
