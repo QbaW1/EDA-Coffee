@@ -1,4 +1,4 @@
-#EDA-Coffee  
+# EDA-Coffee  
 Projekt dotyczył analizy danych, pochodzących z The Coffee Quality Institute.
 Analiza została przeprowadzona za pomocą języka R. 
 Wygenerowany raport składa się z następujących elementów:
