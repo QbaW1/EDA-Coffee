@@ -3,7 +3,7 @@ Projekt dotyczył analizy danych, pochodzących z *The Coffee Quality Institute*
 Analiza została przeprowadzona za pomocą języka R.  
 
 # Cel projektu  
-Celem projektu była eksploracja znajdujących w nim danych,   
+Celem projektu była eksploracja znajdujących się w nim danych,   
 próba znalezienia ciekawych zależności oraz zwizualizowanie wyników przy pomocy takich pakietów jak *ggplot2* czy *dplyr*.  
 
 # Plik
